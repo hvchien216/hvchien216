@@ -3,7 +3,7 @@
 <div align="left">
     <a href="https://app.daily.dev/chien_anubis" target="_blank">
     <img 
-         src="https://api.daily.dev/devcards/7091cfd24ffb461eaaac3d28f83d8186.png?r=dwz" 
+         src="https://api.daily.dev/devcards/7091cfd24ffb461eaaac3d28f83d8186.png?r=o1z" 
          width="256"
          align="right"
          alt="Chiến Hồ Văn's Dev Card"/>
