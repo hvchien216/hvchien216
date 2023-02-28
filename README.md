@@ -26,7 +26,7 @@
 <br />
 
 ### Fall in love with:
-[![My Skills](https://skills.thijs.gg/icons?i=golang,ts,js,graphql,react,nextjs,jest,webpack,babel,vite,vue,nodejs,nest,postgres,redis,firebase,aws,docker,nginx,idea,vscode,html,css,sass,md,materialui,tailwind,styledcomponents,&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=golang,ts,js,graphql,react,nextjs,jest,webpack,babel,vite,postgres,docker,nginx&theme=dark)](https://skills.thijs.gg)
 <br />
 
 
