@@ -39,7 +39,7 @@
 <br />
 
 ### Fall in love with:
-[![My Skills](https://skills.thijs.gg/icons?i=golang,ts,js,graphql,react,nextjs,jest,webpack,babel,vite,postgres,docker,nginx&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=golang,ts,js,graphql,react,nextjs,jest,webpack,babel,vite,postgres,docker,nginx&theme=dark)](https://skills.thijs.gg)
 <br />
 
 
