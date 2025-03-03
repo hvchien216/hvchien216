@@ -14,16 +14,16 @@
 <br />
 
 <div align="left">
-    <a href="https://app.daily.dev/chien_anubis" target="_blank">
+   <a href="https://app.daily.dev/chien_lws">
     <img 
-         src="https://api.daily.dev/devcards/7091cfd24ffb461eaaac3d28f83d8186.png?r=o1z" 
-         width="256"
-         align="right"
-         alt="Chiến Hồ Văn's Dev Card"/>
-  </a>
+        src="https://api.daily.dev/devcards/v2/AEimvOt16xM8WYr5W0qYN.png?r=qsq" width="256"
+        align="right"
+        alt="Chiến Hồ Văn's Dev Card"
+    />
+   </a>
 </div>
 
-## I am Chiến Anbs
+## I am Chien Lewis
 
 - Developer at ...
 - Loves a freshly brewed cup of coffee
@@ -39,7 +39,7 @@
 <br />
 
 ### Fall in love with:
-[![My Skills](https://skillicons.dev/icons?i=golang,ts,js,graphql,react,nextjs,jest,webpack,babel,vite,postgres,docker,nginx&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=golang,ts,js,graphql,react,nextjs,nestjs,jest,webpack,babel,vite,postgres,docker,nginx&theme=dark)](https://skills.thijs.gg)
 <br />
 
 
